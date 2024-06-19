@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@esm/index.mjs';
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@v0.0.1-esm/index.mjs';
 ```
 
 #### put( x, indices, values, mode )
@@ -117,7 +117,7 @@ var bool = ( out === x );
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@esm/index.mjs';
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@v0.0.1-esm/index.mjs';
 
 // Generate a linearly spaced array:
 var x = linspace( 0, 100, 11 );
