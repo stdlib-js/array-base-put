@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-06-20)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7879bf0`](https://github.com/stdlib-js/stdlib/commit/7879bf0ecd89e0b274fb687ff090dd2b863346a3) - **docs:** fix example _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-06-19)

@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.2.1",
-    "@stdlib/array-base-assert-is-boolean-data-type": "github:stdlib-js/array-base-assert-is-boolean-data-type#main",
+    "@stdlib/array-base-assert-is-boolean-data-type": "^0.0.1",
     "@stdlib/array-base-assert-is-complex-floating-point-data-type": "^0.2.1",
     "@stdlib/ndarray-base-ind": "^0.2.1",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.1",
