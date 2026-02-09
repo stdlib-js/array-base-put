@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-put/tags). For example,
+
+```javascript
 import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@v0.0.3-esm/index.mjs';
 ```
 
@@ -117,7 +122,7 @@ var bool = ( out === x );
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@v0.0.3-esm/index.mjs';
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-put@esm/index.mjs';
 
 // Generate a linearly spaced array:
 var x = linspace( 0, 100, 11 );
